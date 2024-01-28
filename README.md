@@ -5,7 +5,7 @@ Estudos da linguagem GOLang
 
 ## Descrição do Projeto
 
-Este projeto consiste em um programa em Go para a conversão de escalas termométricas de Kelvin para Celsius. O código-fonte realiza a conversão usando a fórmula apropriada e fornece uma solução simples para esse tipo de conversão.
+Este projeto consiste em um programa em Go para a conversão de escalas termométricas de Kelvin para Celsius. O código-fonte realiza a conversão usando a fórmula apropriada e fornece uma solução simples para esse tipo de conversão e informa qual a temperatura de ebulição da água em Kelvin e qual o valor em Celsius.
 
 ## Funcionalidades
 
